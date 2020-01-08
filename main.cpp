@@ -561,8 +561,8 @@ int main(int argc, char** argv)
 
     glClearColor(0,0,0,0);
     projection();
-    glEnable(GL_CULL_FACE);
-    glCullFace(GL_BACK);
+    //glEnable(GL_CULL_FACE);
+    //glCullFace(GL_BACK);
 
 	glutDisplayFunc(display);   //registers "display" as the display callback function
     glutKeyboardFunc(keyboard);

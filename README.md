@@ -3,7 +3,7 @@ Seda Mete, Christina Mudarth
 
 Description
 -----------------
-Assignment 4 for Computer Graphics course. A graphics program using C++ and OpengGl that produces and displays an interactive terrain mesh. The terrain is represented using a heightmap.
+Assignment 4 for Computer Graphics course. A graphics program using C++ and OpengGL that produces and displays an interactive terrain mesh. The terrain is represented using a heightmap.
 
 
 How to Run Program
